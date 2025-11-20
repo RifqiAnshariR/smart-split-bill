@@ -101,8 +101,6 @@ async def upload_receipt(file: UploadFile = File(...)):
     except:
         raise HTTPException(500, "Failed to parse receipt JSON")
 
-    # return {"items":[{"name":"Bintang Bremer","quantity":1,"price_per_unit":59000},{"name":"Chicken H-H","quantity":1,"price_per_unit":190000},{"name":"Ades","quantity":1,"price_per_unit":10000}],"service_price":9600,"tax_price":52416,"discount_price":19000}
-
 
 @app.post("/split-evenly")
 async def split_evenly(even_req: SplitEvenRequest = None):
