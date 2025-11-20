@@ -31,17 +31,21 @@ class Config:
     
     PROMPT = """
     You are given an image of a receipt. Please read the content into JSON format:
+
+    ```
     {
         "items": [
             {
                 "name": <item name>,
                 "quantity": <item quantity>,
-                "price": <item price>
+                "price_per_unit": <item price per unit>
             }
         ],
-        "service_price": <service price or 0>,
-        "tax_price": <tax price or 0>,
-        "discount_price": <discount price or 0>
+        "service_price": <service price in receipt or 0 if not available>,
+        "tax_price": <tax price in receipt or 0 if not available>,
+        "discount_price": <discount price in receipt or 0 if not available>,
     }
-    Return only JSON.
+    ```
+
+    return only in JSON format
     """
