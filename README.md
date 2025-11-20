@@ -20,9 +20,6 @@
 1. To run API: python app.py
 2. To run Streamlit: streamlit run Home.py
 
-## Demo:
-https://youtu.be/6CO3TUrcAuA
-
 ## Evaluation:
 Evaluation done on: 
 - Models: gemini-2.5-flash, gemini-2.0-flash, gemini-2.0-flash-lite.
