@@ -1,0 +1,11 @@
+[theme]
+primaryColor = "#000000ff"
+backgroundColor = "#ffffffff"
+secondaryBackgroundColor = "#eeeeeeff"
+textColor = "#000000ff"
+font = "arial"
+
+[server]
+enableCORS = false
+enableXsrfProtection = true
+port = 8501

@@ -1,0 +1,1161 @@
+==================================================
+Evaluation for model: gemini-2.5-flash on image: ../data/receipt_1.jpg on trial: 1
+Elapsed time: 4.920537710189819
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "Bintang Bremer",
+            "quantity": 1,
+            "price_per_unit": 59000
+        },
+        {
+            "name": "Chicken H-H",
+            "quantity": 1,
+            "price_per_unit": 190000
+        },
+        {
+            "name": "Ades",
+            "quantity": 1,
+            "price_per_unit": 10000
+        }
+    ],
+    "service_price": 9600,
+    "tax_price": 52416,
+    "discount_price": 19000
+}
+```
+==================================================
+Evaluation for model: gemini-2.5-flash on image: ../data/receipt_1.jpg on trial: 2
+Elapsed time: 3.8942811489105225
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "Bintang Bremer",
+            "quantity": 1,
+            "price_per_unit": 59000
+        },
+        {
+            "name": "Chicken H-H",
+            "quantity": 1,
+            "price_per_unit": 190000
+        },
+        {
+            "name": "Ades",
+            "quantity": 1,
+            "price_per_unit": 10000
+        }
+    ],
+    "service_price": 9600,
+    "tax_price": 52416,
+    "discount_price": 19000
+}
+```
+==================================================
+Evaluation for model: gemini-2.5-flash on image: ../data/receipt_1.jpg on trial: 3
+Elapsed time: 4.412571430206299
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "Bintang Bremer",
+            "quantity": 1,
+            "price_per_unit": 59000
+        },
+        {
+            "name": "Chicken H-H",
+            "quantity": 1,
+            "price_per_unit": 190000
+        },
+        {
+            "name": "Ades",
+            "quantity": 1,
+            "price_per_unit": 10000
+        }
+    ],
+    "service_price": 9600,
+    "tax_price": 52416,
+    "discount_price": 19000
+}
+```
+==================================================
+Evaluation for model: gemini-2.5-flash on image: ../data/receipt_2.png on trial: 1
+Elapsed time: 7.890795707702637
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "SAMPOERNA MILD 16'S",
+            "quantity": 1,
+            "price_per_unit": 18900
+        },
+        {
+            "name": "FRESTEA TEH MARKS500",
+            "quantity": 1,
+            "price_per_unit": 5600
+        },
+        {
+            "name": "ROTI MANIS MEXI CAPC",
+            "quantity": 2,
+            "price_per_unit": 9000
+        },
+        {
+            "name": "DIET KANTONG PLASTIK",
+            "quantity": 1,
+            "price_per_unit": 200
+        },
+        {
+            "name": "WALLS PPL STW-VNL 90",
+            "quantity": 1,
+            "price_per_unit": 5000
+        },
+        {
+            "name": "PLASTIK SDG",
+            "quantity": 1,
+            "price_per_unit": 1
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 2600,
+    "discount_price": 5001
+}
+```
+==================================================
+Evaluation for model: gemini-2.5-flash on image: ../data/receipt_2.png on trial: 2
+Elapsed time: 8.15010929107666
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "SAMPOERNA MILD 16'S",
+            "quantity": 1,
+            "price_per_unit": 18900
+        },
+        {
+            "name": "FRESTEA TEH MARKS500",
+            "quantity": 1,
+            "price_per_unit": 5600
+        },
+        {
+            "name": "ROTI MANIS MEXI CAPC",
+            "quantity": 2,
+            "price_per_unit": 9000
+        },
+        {
+            "name": "DIET KANTONG PLASTIK",
+            "quantity": 1,
+            "price_per_unit": 200
+        },
+        {
+            "name": "WALLS PPL STW-VNL 90",
+            "quantity": 1,
+            "price_per_unit": 5000
+        },
+        {
+            "name": "PLASTIK SDG",
+            "quantity": 1,
+            "price_per_unit": 1
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 2600,
+    "discount_price": 5001
+}
+```
+==================================================
+Evaluation for model: gemini-2.5-flash on image: ../data/receipt_2.png on trial: 3
+Elapsed time: 8.334120273590088
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "SAMPOERNA MILD 16'S",
+            "quantity": 1,
+            "price_per_unit": 18900
+        },
+        {
+            "name": "FRESTEA TEH MARKS500",
+            "quantity": 1,
+            "price_per_unit": 5600
+        },
+        {
+            "name": "ROTI MANIS MEXI CAPC",
+            "quantity": 2,
+            "price_per_unit": 9000
+        },
+        {
+            "name": "DIET KANTONG PLASTIK",
+            "quantity": 1,
+            "price_per_unit": 200
+        },
+        {
+            "name": "WALLS PPL STW-VNL 90",
+            "quantity": 1,
+            "price_per_unit": 5000
+        },
+        {
+            "name": "PLASTIK SDG",
+            "quantity": 1,
+            "price_per_unit": 1
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 2600,
+    "discount_price": 5001
+}
+```
+==================================================
+Evaluation for model: gemini-2.5-flash on image: ../data/receipt_3.jpg on trial: 1
+Elapsed time: 14.954904317855835
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "POP MIE AYAM 75G",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "POP MIE PD.DWR AYM75",
+            "quantity": 1,
+            "price_per_unit": 5400
+        },
+        {
+            "name": "NESTLE PURE LIFE 600",
+            "quantity": 2,
+            "price_per_unit": 3600
+        },
+        {
+            "name": "LE MINERALE 600ML",
+            "quantity": 2,
+            "price_per_unit": 3500
+        },
+        {
+            "name": "ULTRA KCNG HIJAU 250",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "NUTRIJEL PWD.STRW.15",
+            "quantity": 2,
+            "price_per_unit": 6600
+        },
+        {
+            "name": "KNZLER SNGLES KJU 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KNZLER SNGLES HOT 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KANZLR BAKSO ORI 48G",
+            "quantity": 2,
+            "price_per_unit": 8700
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 7036,
+    "discount_price": 2000
+}
+```
+==================================================
+Evaluation for model: gemini-2.5-flash on image: ../data/receipt_3.jpg on trial: 2
+Elapsed time: 12.985880851745605
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "POP MIE AYAM 75G",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "POP MIE PD.DWR AYM75",
+            "quantity": 1,
+            "price_per_unit": 5400
+        },
+        {
+            "name": "NESTLE PURE LIFE 600",
+            "quantity": 2,
+            "price_per_unit": 3600
+        },
+        {
+            "name": "LE MINERALE 600ML",
+            "quantity": 2,
+            "price_per_unit": 3500
+        },
+        {
+            "name": "ULTRA KCNG HIJAU 250",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "NUTRIJEL PWD.STRW.15",
+            "quantity": 2,
+            "price_per_unit": 6600
+        },
+        {
+            "name": "KNZLER SNGLES KJU 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KNZLER SNGLES HOT 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KANZLR BAKSO ORI 48G",
+            "quantity": 2,
+            "price_per_unit": 8700
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 7036,
+    "discount_price": 2000
+}
+```
+==================================================
+Evaluation for model: gemini-2.5-flash on image: ../data/receipt_3.jpg on trial: 3
+Elapsed time: 14.2927086353302
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "POP MIE AYAM 75G",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "POP MIE PD.DWR AYM75",
+            "quantity": 1,
+            "price_per_unit": 5400
+        },
+        {
+            "name": "NESTLE PURE LIFE 600",
+            "quantity": 2,
+            "price_per_unit": 3600
+        },
+        {
+            "name": "LE MINERALE 600ML",
+            "quantity": 2,
+            "price_per_unit": 3500
+        },
+        {
+            "name": "ULTRA KCNG HIJAU 250",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "NUTRIJEL PWD.STRW.15",
+            "quantity": 2,
+            "price_per_unit": 6600
+        },
+        {
+            "name": "KNZLER SNGLES KJU 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KNZLER SNGLES HOT 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KANZLR BAKSO ORI 48G",
+            "quantity": 2,
+            "price_per_unit": 8700
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 7036,
+    "discount_price": 2000
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash on image: ../data/receipt_1.jpg on trial: 1
+Elapsed time: 3.85679292678833
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "Bintang Bremer",
+            "quantity": 1,
+            "price_per_unit": 59000
+        },
+        {
+            "name": "Chicken H-H",
+            "quantity": 1,
+            "price_per_unit": 190000
+        },
+        {
+            "name": "Ades",
+            "quantity": 1,
+            "price_per_unit": 10000
+        }
+    ],
+    "service_price": 9600,
+    "tax_price": 52416,
+    "discount_price": 19000
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash on image: ../data/receipt_1.jpg on trial: 2
+Elapsed time: 4.012557029724121
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "Bintang Bremer",
+            "quantity": 1,
+            "price_per_unit": 59000
+        },
+        {
+            "name": "Chicken H-H",
+            "quantity": 1,
+            "price_per_unit": 190000
+        },
+        {
+            "name": "Ades",
+            "quantity": 1,
+            "price_per_unit": 10000
+        }
+    ],
+    "service_price": 9600,
+    "tax_price": 52416,
+    "discount_price": 19000
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash on image: ../data/receipt_1.jpg on trial: 3
+Elapsed time: 4.048210620880127
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "Bintang Bremer",
+            "quantity": 1,
+            "price_per_unit": 59000
+        },
+        {
+            "name": "Chicken H-H",
+            "quantity": 1,
+            "price_per_unit": 190000
+        },
+        {
+            "name": "Ades",
+            "quantity": 1,
+            "price_per_unit": 10000
+        }
+    ],
+    "service_price": 9600,
+    "tax_price": 52416,
+    "discount_price": 19000
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash on image: ../data/receipt_2.png on trial: 1
+Elapsed time: 9.418768167495728
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "SAMPOERNA MILD 16'S",
+            "quantity": 1,
+            "price_per_unit": 18900
+        },
+        {
+            "name": "FRESTEA TEH MARKS500",
+            "quantity": 1,
+            "price_per_unit": 5600
+        },
+        {
+            "name": "ROTI MANIS MEXI CAPC",
+            "quantity": 2,
+            "price_per_unit": 9000
+        },
+        {
+            "name": "DIET KANTONG PLASTIK",
+            "quantity": 1,
+            "price_per_unit": 200
+        },
+        {
+            "name": "WALLS PPL STW-VNL 90",
+            "quantity": 1,
+            "price_per_unit": 5000
+        },
+        {
+            "name": "PLASTIK SDG",
+            "quantity": 1,
+            "price_per_unit": 1
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 2600,
+    "discount_price": 5001
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash on image: ../data/receipt_2.png on trial: 2
+Elapsed time: 7.258275985717773
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "SAMPOERNA MILD 16'S",
+            "quantity": 1,
+            "price_per_unit": 18900
+        },
+        {
+            "name": "FRESTEA TEH MARKS500",
+            "quantity": 1,
+            "price_per_unit": 5600
+        },
+        {
+            "name": "ROTI MANIS MEXI CAPC",
+            "quantity": 2,
+            "price_per_unit": 9000
+        },
+        {
+            "name": "DIET KANTONG PLASTIK",
+            "quantity": 1,
+            "price_per_unit": 200
+        },
+        {
+            "name": "WALLS PPL STW-VNL 90",
+            "quantity": 1,
+            "price_per_unit": 5000
+        },
+        {
+            "name": "PLASTIK SDG",
+            "quantity": 1,
+            "price_per_unit": 1
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 2600,
+    "discount_price": 5001
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash on image: ../data/receipt_2.png on trial: 3
+Elapsed time: 8.57945990562439
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "SAMPOERNA MILD 16'S",
+            "quantity": 1,
+            "price_per_unit": 18900
+        },
+        {
+            "name": "FRESTEA TEH MARKS500",
+            "quantity": 1,
+            "price_per_unit": 5600
+        },
+        {
+            "name": "ROTI MANIS MEXI CAPC",
+            "quantity": 2,
+            "price_per_unit": 9000
+        },
+        {
+            "name": "DIET KANTONG PLASTIK",
+            "quantity": 1,
+            "price_per_unit": 200
+        },
+        {
+            "name": "WALLS PPL STW-VNL 90",
+            "quantity": 1,
+            "price_per_unit": 5000
+        },
+        {
+            "name": "PLASTIK SDG",
+            "quantity": 1,
+            "price_per_unit": 1
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 2600,
+    "discount_price": 5001
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash on image: ../data/receipt_3.jpg on trial: 1
+Elapsed time: 7.686996221542358
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "POP MIE AYAM 75G",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "POP MIE PD.DWR AYM75",
+            "quantity": 1,
+            "price_per_unit": 5400
+        },
+        {
+            "name": "NESTLE PURE LIFE 600",
+            "quantity": 2,
+            "price_per_unit": 3600
+        },
+        {
+            "name": "LE MINERALE 600ML",
+            "quantity": 2,
+            "price_per_unit": 3500
+        },
+        {
+            "name": "ULTRA KCNG HIJAU 250",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "NUTRIJEL PWD.STRW.15",
+            "quantity": 2,
+            "price_per_unit": 6600
+        },
+        {
+            "name": "KNZLER SNGLES KJU 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KNZLER SNGLES HOT 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KANZLR BAKSO ORI 48G",
+            "quantity": 2,
+            "price_per_unit": 8700
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 7036,
+    "discount_price": 2000
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash on image: ../data/receipt_3.jpg on trial: 2
+Elapsed time: 13.435675859451294
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "POP MIE AYAM 75G",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "POP MIE PD.DWR AYM75",
+            "quantity": 1,
+            "price_per_unit": 5400
+        },
+        {
+            "name": "NESTLE PURE LIFE 600",
+            "quantity": 2,
+            "price_per_unit": 3600
+        },
+        {
+            "name": "LE MINERALE 600ML",
+            "quantity": 2,
+            "price_per_unit": 3500
+        },
+        {
+            "name": "ULTRA KCNG HIJAU 250",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "NUTRIJEL PWD.STRW.15",
+            "quantity": 2,
+            "price_per_unit": 6600
+        },
+        {
+            "name": "KNZLER SNGLES KJU 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KNZLER SNGLES HOT 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KANZLR BAKSO ORI 48G",
+            "quantity": 2,
+            "price_per_unit": 8700
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 7036,
+    "discount_price": 2000
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash on image: ../data/receipt_3.jpg on trial: 3
+Elapsed time: 14.09608006477356
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "POP MIE AYAM 75G",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "POP MIE PD.DWR AYM75",
+            "quantity": 1,
+            "price_per_unit": 5400
+        },
+        {
+            "name": "NESTLE PURE LIFE 600",
+            "quantity": 2,
+            "price_per_unit": 3600
+        },
+        {
+            "name": "LE MINERALE 600ML",
+            "quantity": 2,
+            "price_per_unit": 3500
+        },
+        {
+            "name": "ULTRA KCNG HIJAU 250",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "NUTRIJEL PWD.STRW.15",
+            "quantity": 2,
+            "price_per_unit": 6600
+        },
+        {
+            "name": "KNZLER SNGLES KJU 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KNZLER SNGLES HOT 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KANZLR BAKSO ORI 48G",
+            "quantity": 2,
+            "price_per_unit": 8700
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 7036,
+    "discount_price": 2000
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash-lite on image: ../data/receipt_1.jpg on trial: 1
+Elapsed time: 4.505225896835327
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "Bintang Bremer",
+            "quantity": 1,
+            "price_per_unit": 59000
+        },
+        {
+            "name": "Chicken H-H",
+            "quantity": 1,
+            "price_per_unit": 190000
+        },
+        {
+            "name": "Ades",
+            "quantity": 1,
+            "price_per_unit": 10000
+        }
+    ],
+    "service_price": 9600,
+    "tax_price": 52416,
+    "discount_price": 19000
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash-lite on image: ../data/receipt_1.jpg on trial: 2
+Elapsed time: 4.213597536087036
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "Bintang Bremer",
+            "quantity": 1,
+            "price_per_unit": 59000
+        },
+        {
+            "name": "Chicken H-H",
+            "quantity": 1,
+            "price_per_unit": 190000
+        },
+        {
+            "name": "Ades",
+            "quantity": 1,
+            "price_per_unit": 10000
+        }
+    ],
+    "service_price": 9600,
+    "tax_price": 52416,
+    "discount_price": 19000
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash-lite on image: ../data/receipt_1.jpg on trial: 3
+Elapsed time: 4.082900047302246
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "Bintang Bremer",
+            "quantity": 1,
+            "price_per_unit": 59000
+        },
+        {
+            "name": "Chicken H-H",
+            "quantity": 1,
+            "price_per_unit": 190000
+        },
+        {
+            "name": "Ades",
+            "quantity": 1,
+            "price_per_unit": 10000
+        }
+    ],
+    "service_price": 9600,
+    "tax_price": 52416,
+    "discount_price": 19000
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash-lite on image: ../data/receipt_2.png on trial: 1
+Elapsed time: 7.844736576080322
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "SAMPOERNA MILD 16'S",
+            "quantity": 1,
+            "price_per_unit": 18900
+        },
+        {
+            "name": "FRESTEA TEH MARKS500",
+            "quantity": 1,
+            "price_per_unit": 5600
+        },
+        {
+            "name": "ROTI MANIS MEXI CAPC",
+            "quantity": 2,
+            "price_per_unit": 9000
+        },
+        {
+            "name": "DIET KANTONG PLASTIK",
+            "quantity": 1,
+            "price_per_unit": 200
+        },
+        {
+            "name": "WALLS PPL STW-VNL 90",
+            "quantity": 1,
+            "price_per_unit": 5000
+        },
+        {
+            "name": "PLASTIK SDG",
+            "quantity": 1,
+            "price_per_unit": 1
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 2600,
+    "discount_price": 5001
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash-lite on image: ../data/receipt_2.png on trial: 2
+Elapsed time: 7.942735195159912
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "SAMPOERNA MILD 16'S",
+            "quantity": 1,
+            "price_per_unit": 18900
+        },
+        {
+            "name": "FRESTEA TEH MARKS500",
+            "quantity": 1,
+            "price_per_unit": 5600
+        },
+        {
+            "name": "ROTI MANIS MEXI CAPC",
+            "quantity": 2,
+            "price_per_unit": 9000
+        },
+        {
+            "name": "DIET KANTONG PLASTIK",
+            "quantity": 1,
+            "price_per_unit": 200
+        },
+        {
+            "name": "WALLS PPL STW-VNL 90",
+            "quantity": 1,
+            "price_per_unit": 5000
+        },
+        {
+            "name": "PLASTIK SDG",
+            "quantity": 1,
+            "price_per_unit": 1
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 2600,
+    "discount_price": 5001
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash-lite on image: ../data/receipt_2.png on trial: 3
+Elapsed time: 9.910359382629395
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "SAMPOERNA MILD 16'S",
+            "quantity": 1,
+            "price_per_unit": 18900
+        },
+        {
+            "name": "FRESTEA TEH MARKS500",
+            "quantity": 1,
+            "price_per_unit": 5600
+        },
+        {
+            "name": "ROTI MANIS MEXI CAPC",
+            "quantity": 2,
+            "price_per_unit": 9000
+        },
+        {
+            "name": "DIET KANTONG PLASTIK",
+            "quantity": 1,
+            "price_per_unit": 200
+        },
+        {
+            "name": "WALLS PPL STW-VNL 90",
+            "quantity": 1,
+            "price_per_unit": 5000
+        },
+        {
+            "name": "PLASTIK SDG",
+            "quantity": 1,
+            "price_per_unit": 1
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 2600,
+    "discount_price": 5001
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash-lite on image: ../data/receipt_3.jpg on trial: 1
+Elapsed time: 13.31845474243164
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "POP MIE AYAM 75G",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "POP MIE PD.DWR AYM75",
+            "quantity": 1,
+            "price_per_unit": 5400
+        },
+        {
+            "name": "NESTLE PURE LIFE 600",
+            "quantity": 2,
+            "price_per_unit": 3600
+        },
+        {
+            "name": "LE MINERALE 600ML",
+            "quantity": 2,
+            "price_per_unit": 3500
+        },
+        {
+            "name": "ULTRA KCNG HIJAU 250",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "NUTRIJEL PWD.STRW.15",
+            "quantity": 2,
+            "price_per_unit": 6600
+        },
+        {
+            "name": "KNZLER SNGLES KJU 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KNZLER SNGLES HOT 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KANZLR BAKSO ORI 48G",
+            "quantity": 2,
+            "price_per_unit": 8700
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 7036,
+    "discount_price": 2000
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash-lite on image: ../data/receipt_3.jpg on trial: 2
+Elapsed time: 13.122364282608032
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "POP MIE AYAM 75G",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "POP MIE PD.DWR AYM75",
+            "quantity": 1,
+            "price_per_unit": 5400
+        },
+        {
+            "name": "NESTLE PURE LIFE 600",
+            "quantity": 2,
+            "price_per_unit": 3600
+        },
+        {
+            "name": "LE MINERALE 600ML",
+            "quantity": 2,
+            "price_per_unit": 3500
+        },
+        {
+            "name": "ULTRA KCNG HIJAU 250",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "NUTRIJEL PWD.STRW.15",
+            "quantity": 2,
+            "price_per_unit": 6600
+        },
+        {
+            "name": "KNZLER SNGLES KJU 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KNZLER SNGLES HOT 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KANZLR BAKSO ORI 48G",
+            "quantity": 2,
+            "price_per_unit": 8700
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 7036,
+    "discount_price": 2000
+}
+```
+==================================================
+Evaluation for model: gemini-2.0-flash-lite on image: ../data/receipt_3.jpg on trial: 3
+Elapsed time: 14.243266105651855
+Response: 
+```json
+{
+    "items": [
+        {
+            "name": "POP MIE AYAM 75G",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "POP MIE PD.DWR AYM75",
+            "quantity": 1,
+            "price_per_unit": 5400
+        },
+        {
+            "name": "NESTLE PURE LIFE 600",
+            "quantity": 2,
+            "price_per_unit": 3600
+        },
+        {
+            "name": "LE MINERALE 600ML",
+            "quantity": 2,
+            "price_per_unit": 3500
+        },
+        {
+            "name": "ULTRA KCNG HIJAU 250",
+            "quantity": 1,
+            "price_per_unit": 4900
+        },
+        {
+            "name": "NUTRIJEL PWD.STRW.15",
+            "quantity": 2,
+            "price_per_unit": 6600
+        },
+        {
+            "name": "KNZLER SNGLES KJU 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KNZLER SNGLES HOT 65",
+            "quantity": 1,
+            "price_per_unit": 8700
+        },
+        {
+            "name": "KANZLR BAKSO ORI 48G",
+            "quantity": 2,
+            "price_per_unit": 8700
+        }
+    ],
+    "service_price": 0,
+    "tax_price": 7036,
+    "discount_price": 2000
+}
+```

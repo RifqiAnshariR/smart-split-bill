@@ -1,0 +1,23 @@
+/* Reset dan Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    width: 100%;
+    left: 0%;
+    text-align: center;
+}
+
+.footer {
+    width: 100%;
+    bottom: 10px;
+    position: fixed;
+    left: 0px;
+    text-align: center;
+    color: grey;
+    font-size: 1em;
+    z-index: 999;
+}
